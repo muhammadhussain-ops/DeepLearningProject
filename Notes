@@ -1,0 +1,17 @@
+Kun Revco
+Forudsige en slags fejl
+Den skal kunne bestemme hvilken fejl. Holde sig til kategorier.
+Model for normal operation, fra fejlen sker og 10 dage før, bruger vi ikke til træning.
+Autoencoder, RNN. 
+Bruge model til at fange normal data, anomaly detection. 
+Prøv med threshhold, tror ikke det vil virker, 4 dage før. 
+Temporal dynamik
+Alle steder ikke fejl, normalt.
+Fjerne data før og efter fejl.
+Undersøge buffer zone.
+Simplest være lave autoencoder, som skal forudsige sig selv. Regne ud hvad fejlen er på autopredicter og sammenlign med fejl data, høj fejlprocent dermed fejl.
+2 step model, autoencoder. Først forudsige fejl, derefter tage det segment til anden model for at foudsige fejl type. Anden model bygger på alle fejlene, som blev fjernet til data til autoencoder. Her er buffer zonen vigtig for at rigtige mængde data til hver. 
+Krydsvalidering, flere frysere. Krydsvalider på tværs af frysere, skal kunne generalizere. Holde sæt af frysere ude. Tage 5 frysere, ud rør ikke ved dem, brug dem til validering. 
+Evt. i stedet for autoencoder, måske prøve lstm. 
+Nyt møde 14.30
+Se på citation, arima model, hvad de synes af lag er spændende. 
