@@ -1,0 +1,25 @@
+- 806016
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -60
+voltage_lower_than = 200
+
+
+- 806017
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -60
+voltage_lower_than = 200
+
+remove_from_date = '2020-03-01'
+remove_until_date = '2020-08-01'
+
+
+- 806018
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
