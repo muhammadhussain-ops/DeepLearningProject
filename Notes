@@ -17,8 +17,6 @@ Nyt møde 14.30
 
 
 Se på citation, arima model, hvad de synes af lag er spændende. 
-<<<<<<< HEAD
-=======
 
 - Filtrere data for de observationer hvor fryseren ikke er tændt. 
 - Sørge for at filtrering stemmer overens med eventet. 
@@ -31,4 +29,3 @@ Se på citation, arima model, hvad de synes af lag er spændende.
 - Opstil plots samt confusion matrix for ouput (Binær klasse og multi class CM).
 
 
->>>>>>> b48d91d (change)
