@@ -63,3 +63,164 @@ days_after_event = 3
 
 RTD_higher_than = -70
 voltage_lower_than = 200
+
+
+806027
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806028
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806029
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806267
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806268
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+remove_from_date = '2021-04-01'
+remove_until_date = '2021-07-01'
+
+
+806269
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+remove_from_date = '2020-04-01'
+remove_until_date = '2020-06-01'
+
+
+806270
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806271
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806272
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+remove_from_date = '2017-11-01'
+remove_until_date = '2018-08-01'
+
+
+806273
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806274
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806275
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806277
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806280
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806283
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806829
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+806830
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+808301
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+
+808783
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200

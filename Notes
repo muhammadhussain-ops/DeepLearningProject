@@ -17,7 +17,7 @@ Nyt møde 14.30
 
 Se på citation, arima model, hvad de synes af lag er spændende. 
 
-- Filtrere data for de observationer hvor fryseren ikke er tændt. 
+- Filtrere data for de observationer hvor fryseren ikke er tændt. x
 - Sørge for at filtrering stemmer overens med eventet. 
 - Formatere data til at observationerne er tidsvinduer. 
 - Husk at gemme tidsattributen for senere beregninger og plots.
