@@ -14,5 +14,6 @@ Simplest være lave autoencoder, som skal forudsige sig selv. Regne ud hvad fejl
 Krydsvalidering, flere frysere. Krydsvalider på tværs af frysere, skal kunne generalizere. Holde sæt af frysere ude. Tage 5 frysere, ud rør ikke ved dem, brug dem til validering. 
 Evt. i stedet for autoencoder, måske prøve lstm. 
 Nyt møde 14.30
-Se på citation, arima model, hvad de synes af lag er spændende. 
 
+
+Se på citation, arima model, hvad de synes af lag er spændende. 
