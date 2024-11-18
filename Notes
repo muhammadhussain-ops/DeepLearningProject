@@ -15,3 +15,11 @@ Krydsvalidering, flere frysere. Krydsvalider på tværs af frysere, skal kunne g
 Evt. i stedet for autoencoder, måske prøve lstm. 
 Nyt møde 14.30
 Se på citation, arima model, hvad de synes af lag er spændende. 
+
+- Filtrere data for de observationer hvor fryseren ikke er tændt. 
+- Sørge for at filtrering stemmer overens med eventet. 
+- Formatere data til at observationerne er tidsvinduer. 
+- Husk at gemme tidsattributen for senere beregninger og plots.
+
+
+- Opstille FFNN
