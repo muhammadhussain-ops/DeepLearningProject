@@ -178,6 +178,17 @@ RTD_higher_than = -70
 voltage_lower_than = 200
 
 
+806279
+days_before_event = 3
+days_after_event = 3
+
+RTD_higher_than = -70
+voltage_lower_than = 200
+
+remove_from_date = '2019-04-01'
+remove_until_date = '2019-08-01'
+
+
 806280
 days_before_event = 3
 days_after_event = 3
