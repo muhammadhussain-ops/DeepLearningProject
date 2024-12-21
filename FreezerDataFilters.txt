@@ -1,3 +1,6 @@
+#These are the filters used, when cleaning data for autoencoder
+
+
 806016
 days_before_event = 3
 days_after_event = 3
